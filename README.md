@@ -76,7 +76,7 @@ UI는 기본뼈대는 antd의 디잔인을 사용을 했습니다.
 
 ### 6. 기부 상세 페이지
 
-![12](images/12.png)![목표](/Users/jeongdaeyun/Desktop/포트폴리오/PJT2/댓글.png)
+![12](images/12.png)
 
 ### 7. 블록체인 활용 이유
 
